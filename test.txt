@@ -1,10 +1,7 @@
 1:-this is testing 
 2:-second line
-<<<<<<< HEAD
 3:-third line added
 4:-fourth line added
 5:-fifth line added
 6:-line added
-=======
-3:-third line added
->>>>>>> c7dc80af029191fe4136e2960cd81f087164490c
+7 : - line added
